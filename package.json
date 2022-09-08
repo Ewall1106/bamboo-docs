@@ -1,0 +1,17 @@
+{
+  "name": "bamboo-docs",
+  "author": "danielxiong<ewall1106@gmail.com>",
+  "version": "1.0.4",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs",
+    "publish": "node publish.js"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.5",
+    "vue": "^3.2.37"
+  }
+}
