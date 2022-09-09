@@ -8,7 +8,7 @@ At the same time, we also provide a series of templates that can be used out of 
 
 Support frameworks such as `react/vue/vue3` etc.
 
-## Usage
+## Bamboo-ui
 
 `Bamboo-UI` is a material consumption platform where you can find the materials you want and apply them locally with easy way.
 
@@ -18,16 +18,24 @@ Support frameworks such as `react/vue/vue3` etc.
 
 <img src="/assets/logo.png" />
 
+## Template
+
+Provide a series of basic templates required for development, including some common solutions and extended functions on the basis of the official templates.
+
+| name                                                                | description    |
+| ------------------------------------------------------------------- | -------------- |
+| [vue-h5-template](https://github.com/Ewall1106/react-template)      | react template |
+| [vue-h5-template](https://github.com/Ewall1106/vue-h5-template)     | vue2 template  |
+| [vue-next-template](https://github.com/Ewall1106/vue-next-template) | vue3 template  |
+
 ## Ecosystem
 
-| 项目名称                                                            | 说明                      |
-| ------------------------------------------------------------------- | ------------------------- |
-| [bamboo-ui](https://github.com/Ewall1106/bamboo-ui)                 | consumption platform      |
-| [create-bamboo](https://github.com/Ewall1106/create-bamboo)         | cli                       |
-| [bamboo-docs](https://github.com/Ewall1106/bamboo-docs)             | documents                 |
-| [vue-h5-template](https://github.com/Ewall1106/react-template)      | react template            |
-| [vue-h5-template](https://github.com/Ewall1106/vue-h5-template)     | vue2 template             |
-| [vue-next-template](https://github.com/Ewall1106/vue-next-template) | vue3 template             |
-| bamboo                                                              | material factory platform |
-| bamboo-assets                                                       | material storehouse       |
-| bamboo-server                                                       | bamboo server             |
+| 项目名称                                                    | 说明                      |
+| ----------------------------------------------------------- | ------------------------- |
+| [bamboo-ui](https://github.com/Ewall1106/bamboo-ui)         | consumption platform      |
+| [create-bamboo](https://github.com/Ewall1106/create-bamboo) | cli                       |
+| [bamboo-docs](https://github.com/Ewall1106/bamboo-docs)     | documents                 |
+| bamboo-template                                             | a series of templates     |
+| bamboo                                                      | material factory platform |
+| bamboo-assets                                               | material storehouse       |
+| bamboo-server                                               | bamboo server             |
