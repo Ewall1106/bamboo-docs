@@ -1,4 +1,4 @@
-[English]() | [简体中文]()
+[English](https://bamboo-docs.vercel.app) | [简体中文](https://bamboo-docs.vercel.app/zh/)
 
 # Bamboo
 

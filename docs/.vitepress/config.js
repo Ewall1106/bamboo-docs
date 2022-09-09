@@ -11,13 +11,7 @@ export default {
     },
   },
   themeConfig: {
-    logo: '/assets/logo.png',
-
-    algolia: {
-      appId: "8J64VVRP8K",
-      apiKey: "a18e2f4cc5665f6602c5631fd868adfd",
-      indexName: "vitepress",
-    },
+    logo: "https://s3.bmp.ovh/imgs/2022/08/31/c110cb95c5338ba1.png",
 
     socialLinks: [
       { icon: "github", link: "https://github.com/Ewall1106/bamboo-ui" },
