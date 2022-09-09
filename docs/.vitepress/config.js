@@ -1,6 +1,7 @@
 export default {
   title: "BAMBOO",
   lastUpdated: true,
+  outDir: "../dist",
   locales: {
     "/": {
       lang: "en-US",
