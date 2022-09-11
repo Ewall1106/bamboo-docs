@@ -14,7 +14,7 @@ Support frameworks such as `react/vue/vue3` etc.
 
 1. Open up material platform: [bamoo-ui](https://bamboo-material.vercel.app)
 2. Select your material and copy the command.
-3. Using it in local project.
+3. Use it in your local project via [bamboo-cli](https://github.com/Ewall1106/create-bamboo).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xMsnhtf3j1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

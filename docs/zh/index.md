@@ -14,7 +14,7 @@
 
 1. 打开物料平台: [bamoo-ui](https://bamboo-material.vercel.app)
 2. 选择你物料并复制命令
-3. 在本地某个工程中使用即可
+3. 在本地工程通过 [bamboo-cli](https://github.com/Ewall1106/create-bamboo) 脚手架中使用即可
 
 <iframe width="100%" height="500" src="//player.bilibili.com/player.html?aid=260408330&bvid=BV1he411u7DT&cid=829929132&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
