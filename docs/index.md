@@ -8,7 +8,7 @@ At the same time, we also provide a series of templates that can be used out of 
 
 Support frameworks such as `react/vue/vue3` etc.
 
-## Bamboo-ui
+## Material
 
 `Bamboo-UI` is a material consumption platform where you can find the materials you want and apply them locally with easy way.
 
@@ -16,26 +16,13 @@ Support frameworks such as `react/vue/vue3` etc.
 2. Select your material and copy the command.
 3. Using it in local project.
 
-<img src="/assets/logo.png" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xMsnhtf3j1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Template
 
 Provide a series of basic templates required for development, including some common solutions and extended functions on the basis of the official templates.
 
-| name                                                                | description    |
-| ------------------------------------------------------------------- | -------------- |
-| [vue-h5-template](https://github.com/Ewall1106/react-template)      | react template |
-| [vue-h5-template](https://github.com/Ewall1106/vue-h5-template)     | vue2 template  |
-| [vue-next-template](https://github.com/Ewall1106/vue-next-template) | vue3 template  |
-
-## Ecosystem
-
-| 项目名称                                                    | 说明                      |
-| ----------------------------------------------------------- | ------------------------- |
-| [bamboo-ui](https://github.com/Ewall1106/bamboo-ui)         | consumption platform      |
-| [create-bamboo](https://github.com/Ewall1106/create-bamboo) | cli                       |
-| [bamboo-docs](https://github.com/Ewall1106/bamboo-docs)     | documents                 |
-| bamboo-template                                             | a series of templates     |
-| bamboo                                                      | material factory platform |
-| bamboo-assets                                               | material storehouse       |
-| bamboo-server                                               | bamboo server             |
+- [react-template](https://github.com/Ewall1106/react-template)
+- [next-template](https://github.com/Ewall1106/next-template)
+- [vue-h5-template](https://github.com/Ewall1106/vue-h5-template)
+- [vue-next-template](https://github.com/Ewall1106/vue-next-template)
